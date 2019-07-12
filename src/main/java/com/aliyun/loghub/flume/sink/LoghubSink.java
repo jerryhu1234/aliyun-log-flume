@@ -1,7 +1,6 @@
 package com.aliyun.loghub.flume.sink;
 
 import com.aliyun.loghub.flume.source.DelimitedTextEventDeserializer;
-import com.aliyun.openservices.aliyun.log.producer.Result;
 import com.aliyun.openservices.log.Client;
 import com.aliyun.openservices.log.common.LogItem;
 import com.aliyun.openservices.log.exception.LogException;
