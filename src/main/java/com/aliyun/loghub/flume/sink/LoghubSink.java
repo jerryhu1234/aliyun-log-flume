@@ -2,7 +2,6 @@ package com.aliyun.loghub.flume.sink;
 
 import com.aliyun.loghub.flume.source.DelimitedTextEventDeserializer;
 import com.aliyun.openservices.aliyun.log.producer.LogProducer;
-import com.aliyun.openservices.aliyun.log.producer.Producer;
 import com.aliyun.openservices.aliyun.log.producer.ProducerConfig;
 import com.aliyun.openservices.aliyun.log.producer.ProjectConfig;
 import com.aliyun.openservices.aliyun.log.producer.ProjectConfigs;
